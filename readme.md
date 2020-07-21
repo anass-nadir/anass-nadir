@@ -1,14 +1,15 @@
 <h2 align="center">Full Stack Web Developer</h2>
-<img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="150" style="margin:auto;display:flex">
-
+<p align="center">
+<img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="150" />
+</p>
 <h2>This is Anass NADIR</h2>
 <p>a passionate, creative and a self-taught web developer with a hands-on approach to problem-solving and an unending thirst for knowledge.</p>
 <p>Fascinated about anything and everything that can be classified as technology.</p>
 <p>Open to new ideas and opportunities.</p>
 
-
- 
-<img style="margin:auto;display:flex" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
+</p>
 
 ```javascript
 const skills = {
